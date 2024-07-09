@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">InnerBody</string>
+    <string name="welcome_to_the_basics_codelab">Welcom to da Inner Body.\n</string>
+    <string name="show_less">Show less</string>
+    <string name="show_more">Show more</string>
+    <string name="elevated_button_aliment">Alimento</string>
+
+    <string name="ab1_inversions">Inversions</string>
+    <string name="ab2_quick_yoga">Quick yoga</string>
+
+    <string name="cafe_da_manha">Café da manhã</string>
+    <string name="almoco">Almoco</string>
+    <string name="jiujitsu">Jiu jitsu</string>
+    <string name="jantar">Jantar</string>
+    <string name="corrida">Corrida</string>
+    <string name="dormir">Dormir</string>
+    <string name="dicas_sono">Higiene do Sono</string>
+    <string name="bottom_navigation_home">Home</string>
+    <string name="bottom_navigation_profile">Profile</string>
+    <string name="bottom_navigation_alimento">Alimento</string>
+    <string name="bottom_navigation_atividade">Atividade</string>
+    <string name="bottom_navigation_sono">Sono</string>
+    <string name="placeholder_search">Pesquisar</string>
+    <string name="list_home_section">Home Section List Cidadãos</string>
+
+</resources>

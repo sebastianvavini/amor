@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Maslow</string>
+    <string name="ab1_inversions">Inversions</string>
+    <string name="ab2_quick_yoga">Quick yoga</string>
+    <string name="bottom_navigation_home">Home</string>
+    <string name="bottom_navigation_profile">Profile</string>
+    <string name="placeholder_search">Pesquisar</string>
+    <string name="list_home_section">Home Section People</string>
+</resources>
